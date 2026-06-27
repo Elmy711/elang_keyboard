@@ -1,7 +1,8 @@
+# BISMILLAH
+
 # Elang Keyboard 🦅
 
 Keyboard bar 3 baris khusus Termux. Minimalis
-1 tap = `ls`, `cd`, `pkg`, `python`, `vim`
 
 ### Install Cepat
 ```bash
