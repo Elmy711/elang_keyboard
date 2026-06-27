@@ -7,7 +7,7 @@ TERMUX_DIR = Path.home() / ".termux"
 CONFIG_FILE = TERMUX_DIR / "termux.properties"
 BACKUP_FILE = TERMUX_DIR / "termux.properties.bak.elang"
 
-CONFIG_CONTENT = 'extra-keys = [["ESC","|","/","HOME","UP","END","PGUP","DEL"],["TAB","CTRL","ALT","LEFT","DOWN","RIGHT","PGDN","~"],["ls","cd ","clear","exit","pkg ","python","nano ","vim "]]'
+CONFIG_CONTENT = 'extra-keys = [["ESC","|","/","HOME","UP","END","PGUP","DEL"],["TAB","CTRL","BKSP","LEFT","DOWN","RIGHT","PGDN","~"],["ls","cd ","clear","exit","pkg ","ENTER"]]'
 
 def main():
     print("[+] Elang Keyboard Installer v1.1")
