@@ -8,7 +8,7 @@ CONFIG_FILE = TERMUX_DIR / "termux.properties"
 BACKUP_FILE = TERMUX_DIR / "termux.properties.bak.elang"
 
 CONFIG_CONTENT = """# Elang Keyboard - Termux Custom 3 Baris
-# https://github.com/elmy711/elang-keyboard
+# https://github.com/elmy711/elang_keyboard
 
 terminal-transcript-colors = true
 terminal-font = monospace
